@@ -1,7 +1,6 @@
+
 # Default ignored files
 /workspace.xml
-/vcs.xml
-/modules.xml
 /libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml
 /libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml
 /libraries/Maven__com_fasterxml_classmate_1_5_1.xml
@@ -84,6 +83,9 @@
 /libraries/Maven__org_springframework_spring_webmvc_5_2_2_RELEASE.xml
 /libraries/Maven__org_yaml_snakeyaml_1_25.xml
 /.name
+/common-microservice.iml
+/compiler.xml
 /encodings.xml
 /misc.xml
-/compiler.xml
+/modules.xml
+/vcs.xml
